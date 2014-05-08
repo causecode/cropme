@@ -2,10 +2,10 @@
   "author": "Stanislas Duprey",
   "name": "cropme",
   "description": "Preview and crop a picture before upload",
-  "homepage": "http://github.com/standup75/cropme",
+  "homepage": "http://github.com/causecode/cropme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/standup75/cropme.git"
+    "url": "git://github.com/causecode/cropme.git"
   },
   "main": "./dist/cropme.js",
   "version": "0.1.0",
